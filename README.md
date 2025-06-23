@@ -1,3 +1,5 @@
+![Segmentation Example](dino_ss.png)
+
 # Drivable Area Segmentation with DINO and U-Net
 
 This repository contains a PyTorch implementation of a U-Net-based segmentation model for identifying the drivable road area. The model leverages a pre-trained DINO (self-**DI**stillation with **NO** labels) ResNet-50 as the encoder backbone, which is known for its powerful feature extraction capabilities. The primary dataset used for this task is the [Indian Driving Dataset (IDD)](http://idd.insaan.iiit.ac.in/).
